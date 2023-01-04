@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBank.Modelos</name>
+    </assembly>
+    <members>
+        <member name="T:BangBank.Modelos.ContaCorrente">
+            <summary>
+            Define uma conta corrente do Banco BangBang
+            </summary>
+        </member>
+        <member name="M:BangBank.Modelos.ContaCorrente.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Cria uma instância de ContaCorrente com os argumentos utilizados.
+            </summary>
+            <param name="agencia">Representa o valor da Propriedade <see cref="P:BangBank.Modelos.ContaCorrente.Agencia"/> Agencia e deve ter um valor maior que Zero.</param>
+            <param name="numero">Representa o valor da Propriedade <see cref="P:BangBank.Modelos.ContaCorrente.Numero"/> Número e deve ter um valor maior que Zero.</param>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:BangBank.Modelos.ContaCorrente.Sacar(System.Double)">
+            <summary>
+            Realiza o sque e atualiza o valor da propriedade <see cref="P:BangBank.Modelos.ContaCorrente.Saldo"/>
+            </summary>
+            <param name="valor">Representa o Valor do saque, deve ser maior que Zero e menor que o <see cref="P:BangBank.Modelos.ContaCorrente.Saldo"/>.</param>
+            <exception cref="T:System.ArgumentException"> Exceção lançada quando um valor negativo é utilizado no argumento <paramref name="valor"/>.</exception>
+            <exception cref="T:BangBank.Modelos.SaldoInsuficienteException">Exceção lançada quando o valor de <paramref name="valor"/> é maior que o valor da propriedade <see cref="P:BangBank.Modelos.ContaCorrente.Saldo"/>.</exception>
+        </member>
+    </members>
+</doc>

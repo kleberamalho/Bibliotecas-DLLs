@@ -1,0 +1,3 @@
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache

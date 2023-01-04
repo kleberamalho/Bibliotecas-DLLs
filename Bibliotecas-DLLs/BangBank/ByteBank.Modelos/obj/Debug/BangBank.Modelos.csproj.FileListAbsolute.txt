@@ -1,0 +1,7 @@
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.Modelos\obj\Debug\BangBank.Modelos.csproj.AssemblyReference.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.Modelos\obj\Debug\BangBank.Modelos.csproj.CoreCompileInputs.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml

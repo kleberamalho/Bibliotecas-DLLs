@@ -1,0 +1,12 @@
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\BangBank.SistemaAgencia.csproj.AssemblyReference.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\BangBank.SistemaAgencia.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\BangBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\BangBank.SistemaAgencia.csproj.CopyComplete
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+D:\Workspace\Bibliotecas-DLLs\BangBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml

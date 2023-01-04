@@ -1,0 +1,10 @@
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\bin\Debug\BangBank.SistemaInterno.exe.config
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\bin\Debug\BangBank.SistemaInterno.exe
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\bin\Debug\BangBank.SistemaInterno.pdb
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\bin\Debug\ByteBank.Modelos.dll
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\obj\Debug\BangBank.SistemaInterno.csproj.AssemblyReference.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\obj\Debug\BangBank.SistemaInterno.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\obj\Debug\BangBank.SistemaInterno.csproj.CoreCompileInputs.cache
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\obj\Debug\BangBank.SistemaInterno.csproj.CopyComplete
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\obj\Debug\BangBank.SistemaInterno.exe
+D:\Workspace\Bibliotecas-DLLs\BangBank.SistemaInterno\BangBank.SistemaInterno\obj\Debug\BangBank.SistemaInterno.pdb
